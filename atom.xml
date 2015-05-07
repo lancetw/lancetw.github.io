@@ -4,7 +4,7 @@
   
   <link href="/atom.xml" rel="self"/>
   <link href="http://lancetw.github.io/"/>
-  <updated>2015-05-07T14:53:17.000Z</updated>
+  <updated>2015-05-07T14:54:01.000Z</updated>
   <id>http://lancetw.github.io/</id>
   
   <author>
@@ -19,7 +19,7 @@
     <link href="http://lancetw.github.io/2015/05/07/intelligence/"/>
     <id>http://lancetw.github.io/2015/05/07/intelligence/</id>
     <published>2015-05-07T14:09:57.000Z</published>
-    <updated>2015-05-07T14:53:17.000Z</updated>
+    <updated>2015-05-07T14:54:01.000Z</updated>
     <content type="html"><![CDATA[<p>產生人造物品的能力即是智力，工具製成工具的能力尤其突顯。</p>
 <p>Intelligence is the faculty of making artificial objects, especially tools to make tools.<br>—Henry Bergson (1859–1941)</p>
 ]]></content>
@@ -28,7 +28,9 @@
 <p>Intelligence is the faculty of making artificial objects, especially tools to make tools.<br>—Henry B]]>
     </summary>
     
-      <category term="translation | 英翻中" scheme="http://lancetw.github.io/tags/translation-%E8%8B%B1%E7%BF%BB%E4%B8%AD/"/>
+      <category term="translation" scheme="http://lancetw.github.io/tags/translation/"/>
+    
+      <category term="英翻中" scheme="http://lancetw.github.io/tags/%E8%8B%B1%E7%BF%BB%E4%B8%AD/"/>
     
   </entry>
   
