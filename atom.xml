@@ -4,7 +4,7 @@
   
   <link href="/atom.xml" rel="self"/>
   <link href="http://lancetw.github.io/"/>
-  <updated>2015-05-08T12:15:38.000Z</updated>
+  <updated>2015-05-09T09:07:11.000Z</updated>
   <id>http://lancetw.github.io/</id>
   
   <author>
@@ -13,6 +13,28 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[memory]]></title>
+    <link href="http://lancetw.github.io/2015/05/09/memory/"/>
+    <id>http://lancetw.github.io/2015/05/09/memory/</id>
+    <published>2015-05-09T08:34:24.000Z</published>
+    <updated>2015-05-09T09:07:11.000Z</updated>
+    <content type="html"><![CDATA[<p>僅能回溯記憶的人是那樣可悲。</p>
+<a id="more"></a>
+<p>It’s a poor sort of memory that only works backward.<br>—Lewis Carroll (1832–1898)</p>
+<p><img src="/images/memory.jpg" alt=""></p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>僅能回溯記憶的人是那樣可悲。</p>]]>
+    
+    </summary>
+    
+      <category term="translation" scheme="http://lancetw.github.io/tags/translation/"/>
+    
+      <category term="英翻中" scheme="http://lancetw.github.io/tags/%E8%8B%B1%E7%BF%BB%E4%B8%AD/"/>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[counting]]></title>
