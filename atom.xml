@@ -4,7 +4,7 @@
   
   <link href="/atom.xml" rel="self"/>
   <link href="http://lancetw.github.io/"/>
-  <updated>2015-05-16T22:12:40.000Z</updated>
+  <updated>2015-05-21T02:40:49.000Z</updated>
   <id>http://lancetw.github.io/</id>
   
   <author>
@@ -13,6 +13,28 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[name]]></title>
+    <link href="http://lancetw.github.io/2015/05/21/name/"/>
+    <id>http://lancetw.github.io/2015/05/21/name/</id>
+    <published>2015-05-21T02:03:19.000Z</published>
+    <updated>2015-05-21T02:40:49.000Z</updated>
+    <content type="html"><![CDATA[<p>名字又代表了誰？我們把朵玫瑰取為別的名字，這朵花香味依舊。</p>
+<a id="more"></a>
+<p>What’s in a name? That which we call a rose by any other name would smell as sweet. —Shakespeare, from Romeo and Juliet</p>
+<p><img src="/images/name.jpg" alt=""></p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>名字又代表了誰？我們把朵玫瑰取為別的名字，這朵花香味依舊。</p>]]>
+    
+    </summary>
+    
+      <category term="translation" scheme="http://lancetw.github.io/tags/translation/"/>
+    
+      <category term="英翻中" scheme="http://lancetw.github.io/tags/%E8%8B%B1%E7%BF%BB%E4%B8%AD/"/>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[form]]></title>
