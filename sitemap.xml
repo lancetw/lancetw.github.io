@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://lancetw.github.io/2015/10/17/beginning-haskell-ex2.1/</loc>
+    <lastmod>2015-10-17T15:29:47.000Z</lastmod>
+  </url>
+  
+  <url>
     <loc>http://lancetw.github.io/archives/index.html</loc>
     <lastmod>2015-10-17T15:19:14.000Z</lastmod>
   </url>
@@ -19,11 +24,6 @@
   <url>
     <loc>http://lancetw.github.io/all-tags/index.html</loc>
     <lastmod>2015-10-17T14:51:46.000Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://lancetw.github.io/2015/10/17/beginning-haskell-ex2.1/</loc>
-    <lastmod>2015-10-17T14:33:27.000Z</lastmod>
   </url>
   
   <url>

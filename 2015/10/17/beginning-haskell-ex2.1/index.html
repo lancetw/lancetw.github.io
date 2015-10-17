@@ -137,11 +137,11 @@
         <ol>
 <li>rewrite the previous list literals using only (:) and the empty list constructor [].</li>
 </ol>
-<p>((‘a’:[]):(‘b’:[]):(‘c’:[]):[]):((‘d’:[]):(‘e’:[]):[]):[]</p>
+<figure class="highlight haskell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">(('a':[]):('b':[]):('c':[]):[]):(('d':[]):('e':[]):[]):[]</span><br></pre></td></tr></table></figure>
 <ol>
 <li>Write an expression that checks whether a list is empty, [], or its first element is empty, like [[],[‘a’,’b’]].</li>
 </ol>
-<p>firstOrEmpty lst = if not (null lst) then head lst else “empty”</p>
+<figure class="highlight haskell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="title">firstOrEmpty</span> lst = <span class="keyword">if</span> not (null lst) <span class="keyword">then</span> head lst <span class="keyword">else</span> <span class="string">"empty"</span></span><br></pre></td></tr></table></figure>
 
         
             
