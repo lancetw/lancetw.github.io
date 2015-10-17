@@ -2,6 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://lancetw.github.io/archives/index.html</loc>
+    <lastmod>2015-10-17T15:19:14.000Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://lancetw.github.io/tags/index.html</loc>
+    <lastmod>2015-10-17T14:57:15.000Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://lancetw.github.io/all-archives/index.html</loc>
+    <lastmod>2015-10-17T14:51:52.000Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://lancetw.github.io/all-tags/index.html</loc>
+    <lastmod>2015-10-17T14:51:46.000Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://lancetw.github.io/2015/10/17/beginning-haskell-ex2.1/</loc>
+    <lastmod>2015-10-17T14:33:27.000Z</lastmod>
+  </url>
+  
+  <url>
     <loc>http://lancetw.github.io/2015/05/23/discovery/</loc>
     <lastmod>2015-05-23T16:08:31.000Z</lastmod>
   </url>
@@ -39,16 +64,6 @@
   <url>
     <loc>http://lancetw.github.io/2015/05/17/form/</loc>
     <lastmod>2015-05-16T22:12:40.000Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://lancetw.github.io/all-archives/index.html</loc>
-    <lastmod>2015-05-07T15:14:13.000Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://lancetw.github.io/all-tags/index.html</loc>
-    <lastmod>2015-05-07T15:11:50.000Z</lastmod>
   </url>
   
 </urlset>
