@@ -134,13 +134,19 @@
 </div>
     
     <div class="post-content markdown main-content-wrap" itemprop="articleBody">
-        <ol>
+        <ul>
+<li><ol>
 <li>rewrite the previous list literals using only (:) and the empty list constructor [].</li>
 </ol>
+</li>
+</ul>
 <figure class="highlight haskell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">(('a':[]):('b':[]):('c':[]):[]):(('d':[]):('e':[]):[]):[]</span><br></pre></td></tr></table></figure>
-<ol>
+<ul>
+<li><ol>
 <li>Write an expression that checks whether a list is empty, [], or its first element is empty, like [[],[‘a’,’b’]].</li>
 </ol>
+</li>
+</ul>
 <figure class="highlight haskell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="title">firstOrEmpty</span> lst = <span class="keyword">if</span> not (null lst) <span class="keyword">then</span> head lst <span class="keyword">else</span> <span class="string">"empty"</span></span><br></pre></td></tr></table></figure>
 
         
