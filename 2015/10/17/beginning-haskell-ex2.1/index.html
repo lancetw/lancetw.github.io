@@ -134,7 +134,7 @@
 </div>
     
     <div class="post-content markdown main-content-wrap" itemprop="articleBody">
-        <h2 id="1-_rewrite_the_previous_list_literals_using_only_(:)_and_the_empty_list_constructor_[]-`">1. rewrite the previous list literals using only (:) and the empty list constructor [].`</h2><figure class="highlight haskell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">(('a':[]):('b':[]):('c':[]):[]):(('d':[]):('e':[]):[]):[]</span><br></pre></td></tr></table></figure>
+        <h2 id="1-_rewrite_the_previous_list_literals_using_only_(:)_and_the_empty_list_constructor_[]-">1. rewrite the previous list literals using only (:) and the empty list constructor [].</h2><figure class="highlight haskell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">(('a':[]):('b':[]):('c':[]):[]):(('d':[]):('e':[]):[]):[]</span><br></pre></td></tr></table></figure>
 <h2 id="2-_Write_an_expression_that_checks_whether_a_list_is_empty,_[],_or_its_first_element_is_empty,_like_[[],[‘a’,’b’]]-`">2. Write an expression that checks whether a list is empty, [], or its first element is empty, like [[],[‘a’,’b’]].`</h2><figure class="highlight haskell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="title">firstOrEmpty</span> lst = <span class="keyword">if</span> not (null lst) <span class="keyword">then</span> head lst <span class="keyword">else</span> <span class="string">"empty"</span></span><br></pre></td></tr></table></figure>
 
         
